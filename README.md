@@ -6,6 +6,11 @@ or quit. In the PLAYING state, the player controls the snake's movement to colle
 and avoid obstacles. When the snake collides with an obstacle, the game transitions to the 
 GAME_OVER state, displaying the player's score and allowing them to restart or quit.
 
+INTERFACE OF GAME IN ALL THREE STATES:
+
+![Screenshot (25)](https://github.com/ian-69/Fun-Snake-Game/assets/109722581/69ed8f78-4e96-4534-ae6f-f51bd8208b8b)
+
+
 HOW THE FUNCTIONS AND PROCEDURES ARE ACTUALLY WORKING
 
 Functions and Procedures:
